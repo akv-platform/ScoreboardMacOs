@@ -1605,6 +1605,8 @@
 				OTHER_LIBTOOLFLAGS = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
+				DEVELOPMENT_TEAM = 29UTQE9JS9;
+				CODE_SIGN_IDENTITY = "Developer ID Application";
 			};
 			name = Release;
 		};
