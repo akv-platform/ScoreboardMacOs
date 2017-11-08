@@ -227,6 +227,7 @@
 				TargetAttributes = {
 					731AED041AFE7B6A00D15B71 = {
 						CreatedOnToolsVersion = 6.3.1;
+						DevelopmentTeam = 29UTQE9JS9;
 					};
 					731AED1C1AFE7B6A00D15B71 = {
 						CreatedOnToolsVersion = 6.3.1;
@@ -425,9 +426,12 @@
 			baseConfigurationReference = 08A4E64361A4510EB34855B1 /* Pods-Screentendo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Developer ID Application";
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 29UTQE9JS9;
 				INFOPLIST_FILE = Screentendo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = de.bowstreet.apps.Frankenstein;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -437,9 +441,12 @@
 			baseConfigurationReference = A168B24C1FA11BAEE0ABF41E /* Pods-Screentendo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Developer ID Application";
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 29UTQE9JS9;
 				INFOPLIST_FILE = Screentendo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = de.bowstreet.apps.Frankenstein;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
