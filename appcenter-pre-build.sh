@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-mv “/Users/vsts/Library/MobileDevice/Provisioning Profiles/78d2883f-8f7a-4596-9901-8db519e4e704.mobileprovision” “/Users/vsts/Library/MobileDevice/Provisioning Profiles/78d2883f-8f7a-4596-9901-8db519e4e704.provisionprofile”
+mv "/Users/vsts/Library/MobileDevice/Provisioning Profiles/78d2883f-8f7a-4596-9901-8db519e4e704.mobileprovision" "/Users/vsts/Library/MobileDevice/Provisioning Profiles/78d2883f-8f7a-4596-9901-8db519e4e704.provisionprofile"
