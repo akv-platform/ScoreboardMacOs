@@ -433,7 +433,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = test.akvelon.Frankenstein;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = MacDevPP;
+				PROVISIONING_PROFILE_SPECIFIER = "MacDevPP";
 			};
 			name = Debug;
 		};
@@ -449,7 +449,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = test.akvelon.Frankenstein;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = MacDevPP;
+				PROVISIONING_PROFILE_SPECIFIER = "MacDevPP";
 			};
 			name = Release;
 		};
